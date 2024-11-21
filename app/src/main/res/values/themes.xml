@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="Theme.Assignment3" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="android:background">@color/colorBackground</item>
+
+        <item name="android:textColor">@color/colorText</item>
+
+    <item name="colorPrimary">@color/colorButton</item>
+        <item name="colorPrimaryDark">@color/colorButton</item>
+        <item name="colorAccent">@color/colorButton</item>
+    </style>
+
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:backgroundTint">@color/colorButton</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+    </style>
+</resources>

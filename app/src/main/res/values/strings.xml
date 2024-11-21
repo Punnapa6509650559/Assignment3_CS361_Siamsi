@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">เสี่ยงเซียมซี</string>
+
+
+    <string name="instruction_text">เขย่าโทรศัพท์ของคุณเพื่อทำนายโชคชะตา!</string>
+
+
+    <string name="prediction_1">วันนี้เป็นวันดี!</string>
+    <string name="prediction_2">โชคดีอาจมาเยือน!</string>
+    <string name="prediction_3">ระวังเรื่องสุขภาพ</string>
+    <string name="prediction_4">จะได้รับข่าวดีเร็วๆ นี้</string>
+    <string name="prediction_5">มีเรื่องดีๆ กำลังจะเกิดขึ้น!</string>
+    <string name="prediction_6">ความรักจะมาพร้อมกับโอกาสใหม่!</string>
+    <string name="prediction_7">มีการเดินทางที่น่าตื่นเต้นรออยู่!</string>
+    <string name="prediction_8">วันนี้คุณจะมีโชคลาภ!</string>
+    <string name="prediction_9">ระวังการตัดสินใจที่ผิดพลาด</string>
+    <string name="prediction_10">อย่ากลัวที่จะลองอะไรใหม่ๆ!</string>
+    <string name="prediction_11">จะพบคนสำคัญในชีวิตเร็วๆ นี้!</string>
+    <string name="prediction_12">ทำนายได้ว่าคุณจะได้รับเงิน!</string>
+    <string name="prediction_13">ชีวิตของคุณจะมีการเปลี่ยนแปลงที่ดี</string>
+    <string name="prediction_14">ระวังความเครียดจากงาน!</string>
+    <string name="prediction_15">คุณจะพบทางเลือกที่ดีในเรื่องการงาน</string>
+    <string name="prediction_16">คุณจะได้รับการสนับสนุนจากเพื่อนๆ</string>
+    <string name="prediction_17">โชคดีจะเข้ามาในชีวิตเร็วๆ นี้</string>
+    <string name="prediction_18">การเงินจะมีการเปลี่ยนแปลงไปในทางที่ดี</string>
+    <string name="prediction_19">มีโอกาสในการพัฒนาอาชีพของคุณ</string>
+    <string name="prediction_20">คุณจะมีความสุขในช่วงเวลานี้</string>
+    <string name="prediction_21">อย่าเสียใจในสิ่งที่ไม่ได้ทำ</string>
+    <string name="prediction_22">คุณจะมีความสัมพันธ์ที่ดีขึ้น</string>
+    <string name="prediction_23">ชีวิตจะเปิดโอกาสใหม่ๆ ให้คุณ</string>
+    <string name="prediction_24">การตัดสินใจของคุณจะนำมาซึ่งผลลัพธ์ที่ดี</string>
+    <string name="prediction_25">วันนี้เป็นวันที่ดีในการเริ่มต้นใหม่</string>
+    <string name="prediction_26">คุณจะได้พบกับความสำเร็จเร็วๆ นี้</string>
+    <string name="prediction_27">ไม่ว่าจะเกิดอะไรขึ้น คุณจะเอาชนะมันได้</string>
+    <string name="prediction_28">ความพยายามของคุณจะได้รับผลตอบแทน</string>
+    <string name="prediction_29">การช่วยเหลือจากผู้อื่นจะมาในช่วงเวลาที่เหมาะสม</string>
+    <string name="prediction_30">การเริ่มต้นใหม่จะทำให้ชีวิตคุณมีความหมาย</string>
+
+
+    <string name="button_text">ทำนาย</string>
+
+    <string name="instructions_number">สามารกดปุ่มทำนาย หรือ เขย่าโทรศัพท์เพื่อทำนาย</string>
+
+        <string name="siamsee_image_description">รูปภาพเซียมซี</string>
+
+</resources>
